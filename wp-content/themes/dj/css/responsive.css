@@ -1,0 +1,765 @@
+
+@media (min-width: 1200px){
+.container {
+   max-width: 86.4em;
+   padding-left: 3.45556em;
+   padding-right: 3.45556em;
+}}
+@media screen and (min-width: 1400px){
+html {
+       font-size: 1vw;
+}
+#footer-col-left p {
+    
+    font-size: 1.2em;
+
+}
+}
+@media screen and (min-width: 1800px){
+html {
+       font-size: 0.8vw;
+}
+.mathew-image {
+    height: auto;
+}
+.banner.home-banner {
+    height: 44em;
+}
+.home-banner .row.banner-row {
+    height: 44em;
+}
+.banner-image {
+    position: absolute;
+    left: -5.5em;
+    top: 4.7em;
+    width: 41.7em;
+}
+a.blog-img {
+    height: 440px;
+}
+
+.practice-area-rep {
+    height: 43em;
+}
+
+.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required, textarea {
+    font-size: 1.3em;
+}
+}
+
+@media screen and (max-width: 1500px){
+/*
+html {
+       font-size: 1.175vw;
+}*/
+.free-consultation {
+    margin-left: 1em;
+}
+}
+
+@media screen and (max-width: 1200px) {
+    html {
+       font-size: 1.3vw;
+}
+header#header .col-md-9 {
+    padding-left: 0;
+}
+#search-icon-bar .fa {
+    width: 1.1em;
+}
+.main-navigation .navbar-expand-md .navbar-nav .nav-link {
+    /* margin: 0 0.3em; */
+    font-size: 1em;
+    padding: 18px 0em;
+}
+.tagline-two {
+    font-size: 3.5em;
+}
+.banner-btn a {
+    padding-right: 4em;
+}
+.banner-btn a:after {
+    width: 3.35em;
+}
+a.main-btn:after {
+    width: 3.2em;
+}
+a.main-btn {
+    padding: 1em 5.2em 1em 1.5em;
+    font-size: 1em;
+}
+.banner-image {
+    top: 4.75em;
+}
+li, p {
+    font-size: 16px;
+}
+.free-consultation {
+    padding: 0;
+}
+div.wpcf7-response-output {
+    font-size: 14px;
+}
+.num {
+    display: none;
+}
+form.searchform input {
+    height: 3.9em;
+    top: 0;
+    font-size: 1.2em;
+}
+.top-search.active form.searchform {
+    width: 50em;
+}
+.heading {
+    font-size: 1.4em;
+    margin-bottom: 0.8em;
+}
+.logo img {
+    padding: 14px 0;
+}
+.acoordian-header {
+    font-size: 18px;
+}
+
+a.blog-img {
+    height: 350px;
+}
+.home-post-top-title a {
+    height: 33px;
+    font-size: 16px;
+    padding: 0 2em;
+}
+.acoordian-card:after {
+    top: 25px;
+}
+/** Contact page css **/
+
+.contact-banner textarea {
+    height: 6em;
+}
+.off-left-wrap {
+    width: 34%;
+}
+.off-det-middle {
+    width: 36.5%;
+}
+.off-det-right {
+    width: 25.5%;
+}
+
+.off-det-left p {
+    font-size: 1.2em;
+}
+
+.office-heading {
+    font-size: 1.8em;
+}
+.widget-title {
+    font-size: 25px;
+}
+.post-list {
+    padding: 1.3em;
+}
+.sidebar .wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required, .sidebar textarea {
+    font-size: 14px;
+}
+.inner-banner .banner-main {
+    max-width: 100%;
+}
+
+.heading strong {
+    font-size: 1.3em;
+}
+.prac-title {
+    font-size: 1.8em;
+}
+.book-btn {
+    margin-top: 1.3em;
+}
+}
+@media screen and (max-width: 1024px) {
+    .inner-banner.contact-us-banner .banner-main {
+    margin-top: 120px;
+}
+.inner-banner .banner-content {
+    font-size: 14px;
+}
+.banner-form-top p {
+    font-size: 14px;
+}
+.banner {
+    height: 37em;
+}
+.banner-image {
+    top: 4.7em;
+    left: -7em;
+}
+    .row.banner-row {
+    height: 37em;
+}
+#footer-col-left p {
+    font-size: 1.3em;
+}
+#footer-col-right li {
+    font-size: 1.3em;
+}
+#footer-col-right p {
+    font-size: 1.3em;
+}
+.footer .h3 {
+    font-size: 1.4em;
+}
+div#footer-col-middle li {
+    font-size: 1.3em;
+}
+.footer .copyright p {
+    font-size: 1em;
+}
+.footer .copyright li {
+    font-size: 1em;
+}
+#footer-col-middle {
+    padding-left: 4em;
+}
+a.blog-img {
+    height: 330px;
+}
+.prac-container{
+    flex-wrap: wrap;
+}
+.practice-area-rep {
+    width: 33%;
+    margin-left: 0;
+    flex-grow: 1;
+    height: 25em;
+    background-position: center;
+}
+.practice-area-rep:nth-child(3){
+    border-right: 0;
+}
+.prac-overlay {
+    display: none;
+}
+.prac-title {
+    font-size: 1.7em;
+}
+.prac-contain {
+    padding: 0 1em;
+}
+.home-post-top-title a {
+    height: 33px;
+}
+.footer .copyright p {
+    font-size: 12px !important;
+}
+.copyright a.nav-link {
+    font-size: 12px !important;
+}
+.home-section-four:before {
+    width: 43%;
+}
+.banner.inner-banner {
+    height: 30em;
+}
+.inner-banner .row.banner-row {
+    height: 30em;
+}
+.banner.inner-banner.contact-us-banner {
+    height: 39em;
+}
+.banner.inner-banner.contact-us-banner .row.banner-row {
+    height: 39em;
+}
+.att-sec-con.common-list li {
+    width: 100%;
+    margin: 1% 0;
+}
+.office-heading {
+    padding-bottom: 0.5em;
+}
+.top-search.active form.searchform {
+    width: 52em;
+}
+
+.blog-row {
+    margin-top: 1em;
+}
+}
+@media screen and (max-width: 991px) {
+    
+    html {
+    font-size: 1.7vw;
+}
+    p, li, div > a, p > a{
+        font-size: 15px !important;
+    } 
+    #footer-col-left p {
+    font-size: 1.4em;
+}
+.download-contact {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.22);
+}
+.submit-btn {
+    background-color: #b51e2b;
+    border: none;
+    padding: 1.2em 3.5em 1em;
+}
+a.blog-img {
+    height: 255px;
+}
+.download-contact {
+    padding-left: 0;
+}
+.home-section-fifth:after {
+    width: 100%;
+}
+.download-contact {
+    position: relative;
+    z-index: 1;
+    margin-top: 32px;
+}
+.home-section-four:before {
+    width: 42%;
+}
+.heading strong {
+    font-size: 1.2em;
+}
+
+.main-navigation {
+    display: none;
+}
+.banner-right {
+    display: none !important;
+}
+.banner-main {
+    margin-top: 3em;
+}
+.free-consultation {
+    padding: 0;
+}
+.home-post-top-title a {
+    height: 30px;
+    padding: 0 2em;
+}
+.banner.inner-banner.contact-us-banner {
+    height: auto;
+}
+.banner.inner-banner.contact-us-banner  .row.banner-row {
+    height: auto;
+}
+.inner-banner.contact-us-banner .banner-main {
+    max-width: 100%;
+    margin-top: 100px;
+}
+
+.contact-banner {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+span.contact-direction {
+    padding: 0.6em 0.8em;
+}
+span.contact-direction a {
+    font-size: 12px;
+}
+div.wpcf7-response-output {
+    font-size: 14px;
+}
+.contact-sec-one iframe {
+    height: 20em;
+}
+.prac-title {
+    font-size: 1.5em;
+}
+.post-title a {
+    font-size: 21px !important;
+}
+.cat {
+    padding-bottom: 0.8em;
+    margin-bottom: .8em;
+    margin-top: 0;
+}
+aside.sidebar {
+    margin-top: 30px;
+}
+.sidebar div.wpcf7-response-output {
+    line-height: 1.1em;
+}
+.att-low-block {
+    padding: 10px;
+}
+
+.attorney-name {
+    font-size: 21px;
+}
+
+.attorney-desig {
+    font-size: 12px;
+}
+.tagline-two {
+    font-size: 3em;
+}
+.sidebar div.wpcf7-response-output {
+    line-height: 1.1em;
+}
+
+.acoordian-header {
+    font-size: 16px;
+}
+.post-content {
+    padding-right: 0;
+}
+/** responsive button **/
+span#menu-button {
+    display: block;
+}
+ button#responsive-menu-button {
+    display: none !important;
+}
+.current-menu-item .responsive-menu-subarrow {
+    background: #214989 !important;
+}
+   #responsive-menu-container li.responsive-menu-item a {
+    text-align: left !important;
+    height: auto !important;
+        font-size: 15px !important;
+}
+ 
+button#responsive-menu-button {
+    width: auto !important;
+    height: auto !important;
+    background: transparent !important;
+}
+.button#responsive-menu-button {
+    top: 22px !important;
+}
+.responsive-menu-submenu-depth-1 li:first-child {
+    border-top: 1px solid #fff !important;
+}
+#responsive-menu-container li.responsive-menu-item {
+        border-top: 1px solid #fff;
+    }
+    #responsive-menu-container li:first-child.responsive-menu-item {
+        border-top: none;
+    }
+    .responsive-menu-current-item > a{
+        background-color: #224b85 !important;
+    }
+    .responsive-menu-current-item .responsive-menu-submenu-open > a {
+    background-color: #224b85 !important;
+}
+    .responsive-menu-item-current-ancestor > a {
+        background-color: #224b85 !important;
+            margin: 0 !important;
+    border: none !important;
+    }
+    .responsive-menu-item-current-ancestor > a > .responsive-menu-subarrow-active {
+        background-color: #224b85 !important;
+    }
+    .responsive-menu-item-current-ancestor > a > .responsive-menu-subarrow {
+    background-color: #224b85 !important;
+}
+  
+#responsive-menu-container #responsive-menu li.responsive-menu-item a:hover {
+    color: #ffffff !important;
+}
+  #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover, #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow , .responsive-menu-open button#responsive-menu-button {
+          border-color: rgba(255,255,255,0.3) !important;
+    }
+    .responsive-menu-accessible .responsive-menu-box {
+        margin-top: -3px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    html {
+    font-size: 2vw;
+}
+.home-section-four:before {
+    content: none;
+}
+.dedicated-lawyer {
+    margin-top: 40px;
+}
+a.blog-img {
+    height: 350px;
+}   
+.home-post-top-title a {
+    font-size: 18px !important;
+    height: 38px;
+}
+.blog-btn {
+    margin-top: 2em;
+}
+.home-blog-list {
+    margin-bottom: 20px;
+}
+.home-blog-list:nth-child(3) {
+    margin: 0;
+}
+.main-padding {
+    padding: 50px 0;
+}
+.cons-form {
+    max-width: 100%;
+}
+footer#footer {
+    text-align: center;
+}
+.footer-inner.main-padding {
+    padding-bottom: 0;
+}
+.footer ul{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    width: auto;
+}
+.footer .h3:after {
+    right: 0;
+    margin: auto;
+}
+#footer-col-middle {
+    padding: 0;
+}
+.footer-inner.main-padding {
+    padding: 2.5em 15px;
+}
+.footer #footer-col-right ul {
+    display: inline-block;
+    text-align: center;
+}
+#footer-col-right li {
+    padding-left: 0;
+}
+#footer-col-right li .fa {
+    position: relative;
+    left: -8px;
+    top: 3px; 
+}
+
+.banner-bottom {
+    text-align: center;
+    font-size: 13px;
+}
+.home-sect-right {
+    position: relative;
+    margin-top: 50px;
+}
+
+.home-sect-right {
+    padding:0;
+}
+
+.home-section-three {
+    padding-bottom: 0 !important;
+}
+
+div#footer-col-middle li {
+    margin-bottom: 0.5em;
+}
+.prac-title {
+    font-size: 1.5em;
+    padding-bottom: 0.5em;
+}
+.footer .h3 {
+    font-size: 20px;
+}
+
+.submit-btn {
+    font-size: 14px;
+}
+    div#footer-col-left img {
+    width: 14em;
+}
+.banner {
+    height: 400px;
+}
+.row.banner-row {
+    height: 400px;
+}
+.book-btn a.main-btn {
+    padding: 1em 1.5em 1em 1.5em;
+}
+.blog-row {
+    margin-top: 1em;
+}
+.contact-banner {
+    margin-bottom: 50px;
+}
+
+.contact-sec-one iframe {
+    height: 300px;
+}
+.banner-content {
+    font-size: 15px;
+}
+.post-col-wrap {
+    margin: 12px 0;
+}
+.sidebar .widget {
+    margin-top: 24px;
+}
+.row.about-row {
+    margin-top: 0;
+}
+.attorney-col {
+    margin-top: 20px;
+}
+.attorney-prof-img {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.attorney-prof-img:after{
+    content: none;
+}
+.attorney-prof-img img {
+    border: 2px solid #ccc;
+}
+.att-sec-con.common-list li {
+    width: 100%;
+    margin: 1% 0;
+}
+.att-prof-con {
+    width: 100%;
+    text-align: center;
+}
+.att-prof-con .heading:after{
+    right: 0;
+    margin: auto;
+}
+
+}
+@media screen and (max-width: 680px){
+.practice-area-rep {
+    width: 50%;
+}
+
+.practice-area-rep:nth-child(2n){
+    border-right: none;
+}
+.practice-area-rep:nth-child(3) {
+    border-right: 0.3em solid #fff;
+}
+.heading strong {
+    font-size: 1.5em;
+}
+.heading {
+    font-size: 1.5em;
+}
+.home-post-top-title a {
+    height: 60px;
+    bottom: 1em;
+}
+.acoordian-card:after {
+    top: 16px;
+    right: 12px;
+}
+
+.acoordian-card {
+    padding: 15px;
+    padding-right: 20px;
+}
+.sidebar .widget.side-contact {
+    padding: 3em 0;
+}
+.sidebar div.wpcf7-response-output {
+    bottom: 5px;
+}
+.tagline-one {
+    font-size: 15px;
+}
+.banner.inner-banner {
+    height: 350px;
+}
+.inner-banner .row.banner-row {
+    height: 350px;
+}
+}
+@media screen and (max-width: 575px){
+    .banner-bottom{
+    font-size:15px;
+    }
+    
+.banner-bot-right {
+    text-align: center;
+}
+.practice-area-rep {
+    width: 100%;
+    border-right: none !important;
+    border-bottom: 3px solid #fff;
+}
+.off-left-wrap {
+    width: 50%;
+}
+.off-det-middle {
+    width: 49%;
+}
+.off-det-right {
+    width: 100%;
+    padding: 0;
+    margin-top: 10px;
+    text-align: center;
+}
+.sidebar div.wpcf7-response-output {
+    bottom:12px;
+        font-size: 13px;
+}
+.mathew-content p {
+    text-align: justify;
+}
+}
+@media screen and (max-width: 480px){
+.heading {
+    font-size: 17px;
+}
+.heading strong {
+    font-size: 20px;
+}
+.acoordian-header {
+    font-size: 16px;
+}
+.footer .copyright p {
+    font-size: 11px !important;
+}
+.copyright a.nav-link {
+    font-size: 11px !important;
+}
+.sidebar div.wpcf7-response-output {
+    bottom: 0;
+}
+}
+/*
+@media screen and (max-width: 1000px){
+html {
+    font-size: 1.7vw;
+}
+}
+@media screen and (max-width: 800px){
+html {
+    font-size: 2.123vw;
+}
+}
+@media screen and (max-width: 650px){
+html {
+    font-size: 2.67vw;
+}
+}
+@media screen and (max-width: 550px){
+html {
+    font-size: 3.12vw;
+}
+}
+@media screen and (max-width: 475px){
+html {
+    font-size: 3.2vw;
+}
+}
+@media screen and (max-width: 400px) {
+html {
+    font-size: 4.2vw;
+}
+}*/
